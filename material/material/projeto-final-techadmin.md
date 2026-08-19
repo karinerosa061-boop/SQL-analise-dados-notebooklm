@@ -58,7 +58,6 @@ Para isso, foram criadas três tabelas:
 ### Chave Primária
 
 Cada tabela possui um identificador único.
-
 Exemplo:
 
 ```text
