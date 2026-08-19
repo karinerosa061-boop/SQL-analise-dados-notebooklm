@@ -87,8 +87,11 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
           ↓
 03. Funções de agregação e GROUP BY
           ↓
+04. HAVING
+          ↓
+05. JOIN
+          ↓
 06. Projeto prático
-
 ---
 
 # 🧪 Engenharia de Prompts
