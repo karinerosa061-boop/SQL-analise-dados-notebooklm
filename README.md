@@ -1,5 +1,5 @@
 # SQL-analise-dados-notebooklm
-Projeto desenvolvido para o Desafio de Projeto da DIO sobre Inteligência Artificial como ferramenta de aprendizagem ativa.
+
 # 📊 SQL para Análise de Dados Administrativos
 
 ### Caderno Temático desenvolvido com NotebookLM
