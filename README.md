@@ -81,16 +81,21 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
 ### 🧭 Trilha de aprendizagem
 
 01. Fundamentos de SQL
-          ↓
-02. Consultas básicas
-          ↓
-03. Funções de agregação e GROUP BY
-          ↓
-04. HAVING
-          ↓
-05. JOIN
-          ↓
-06. Projeto prático
+
+        ↓
+3. Consultas básicas
+
+       ↓
+5. Funções de agregação e GROUP BY
+
+       ↓
+7. HAVING
+
+       ↓
+9. JOIN
+
+       ↓
+11. Projeto prático
 ---
 
 # 🧪 Engenharia de Prompts
