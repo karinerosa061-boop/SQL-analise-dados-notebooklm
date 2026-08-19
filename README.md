@@ -280,5 +280,40 @@ Tomada de decisão
 04. HAVING
           ↓
 05. JOIN
+♻️ Prompts reutilizáveis
+
+Os prompts abaixo podem ser utilizados posteriormente para continuar os estudos.
+
+Aprender um novo conceito
+
+Explique o conceito de [CONCEITO] para uma pessoa iniciante em SQL, utilizando linguagem simples e um exemplo relacionado à área administrativa. Apresente uma consulta SQL básica e explique cada parte do código.
+
+Criar exercícios
+
+Crie 5 exercícios de SQL sobre [TEMA], começando pelo nível iniciante e aumentando gradualmente a dificuldade. Não apresente o gabarito até o final.
+
+Corrigir uma consulta
+
+Analise a consulta SQL abaixo. Explique se ela está correta, identifique possíveis erros e explique como posso melhorar meu raciocínio. Não forneça apenas a resposta pronta.
+
+Revisar o conteúdo
+
+Faça uma revisão dos principais conceitos de SQL que estudei. Crie perguntas e exercícios práticos de nível iniciante e não apresente o gabarito antes que eu tente responder.
+
+🎓 Conclusão
+
+O desenvolvimento deste projeto permitiu utilizar a Inteligência Artificial não apenas como ferramenta para obter respostas, mas como apoio a um processo estruturado de aprendizagem.
+
+O NotebookLM foi utilizado para organizar fontes, elaborar explicações, criar exercícios e consolidar os conhecimentos adquiridos.
+
+Ao longo do projeto, foi possível compreender os fundamentos de SQL e perceber como consultas podem ser utilizadas para transformar dados em informações úteis para a área administrativa.
+
+Também foi possível compreender a relação entre SQL, Excel, Power Query e Power BI, criando uma base para estudos futuros em análise de dados.
+
+Principal aprendizado
+
+Antes de pensar no código, é importante entender qual pergunta queremos responder com os dados.
+
+Esse princípio orientou a construção do projeto e representa o principal aprendizado obtido durante o desafio.
           ↓
 06. Projeto prático
