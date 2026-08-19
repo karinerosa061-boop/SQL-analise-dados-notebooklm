@@ -79,7 +79,7 @@ As fontes selecionadas foram adicionadas ao notebook e utilizadas como base para
 A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundamentais e avançando gradualmente até uma aplicação prática.
 
 ### 🧭 Trilha de aprendizagem
-
+```
 01. Fundamentos de SQL
 
        ↓
@@ -96,6 +96,7 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
 
       ↓
 11. Projeto prático
+```
 ---
 
 # 🧪 Engenharia de Prompts
