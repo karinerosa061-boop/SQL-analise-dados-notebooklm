@@ -317,5 +317,3 @@ Principal aprendizado
 Antes de pensar no código, é importante entender qual pergunta queremos responder com os dados.
 
 Esse princípio orientou a construção do projeto e representa o principal aprendizado obtido durante o desafio.
-          ↓
-06. Projeto prático
