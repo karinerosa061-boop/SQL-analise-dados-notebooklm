@@ -80,7 +80,6 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
 
 ### 🧭 Trilha de aprendizagem
 
-```text
 01. Fundamentos de SQL
           ↓
 02. Consultas básicas
@@ -92,7 +91,6 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
 05. JOIN
           ↓
 06. Projeto prático
-```
 ---
 
 # 🧪 Engenharia de Prompts
