@@ -87,6 +87,196 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
           ↓
 03. Funções de agregação e GROUP BY
           ↓
+06. Projeto prático
+
+---
+
+# 🧪 Engenharia de Prompts
+
+Para conduzir o aprendizado, foram criados prompts progressivos no NotebookLM.
+
+A ideia foi começar pelos conceitos mais simples e aumentar gradualmente a complexidade.
+
+## Prompt 1 — Fundamentos
+
+**Objetivo:** compreender o que é SQL e como funcionam bancos de dados relacionais.
+
+> Explique os fundamentos de SQL e de bancos de dados relacionais para uma pessoa iniciante, relacionando os conceitos com situações da área administrativa. Explique SQL, tabelas, registros, colunas, relacionamentos, chaves primárias e estrangeiras e a importância desses conceitos para análise de dados. Utilize exemplos simples e finalize com perguntas de revisão.
+
+## Prompt 2 — Consultas básicas
+
+**Objetivo:** aprender os principais comandos de consulta e filtragem.
+
+> Crie uma aula prática e progressiva sobre consultas SQL básicas utilizando uma pequena tabela de funcionários como exemplo. Explique SELECT, FROM, WHERE, AND, OR, BETWEEN, IN, LIKE, ORDER BY e LIMIT/TOP. Para cada conceito, apresente uma pergunta administrativa, a consulta SQL, uma explicação simples e um exercício de fixação.
+
+## Prompt 3 — Agregações e GROUP BY
+
+**Objetivo:** aprender a resumir informações utilizando funções de agregação.
+
+> Crie uma aula simples sobre funções de agregação e GROUP BY utilizando a mesma tabela de funcionários. Explique COUNT, SUM, AVG, MIN e MAX e mostre como utilizar GROUP BY para analisar informações por departamento ou categoria. Utilize exemplos administrativos e exercícios básicos. Não introduza conteúdos avançados.
+
+## Prompt 4 — HAVING
+
+**Objetivo:** compreender a diferença entre WHERE e HAVING.
+
+> Explique de maneira simples o comando HAVING e sua diferença em relação ao WHERE. Utilize exemplos administrativos com GROUP BY, COUNT, SUM e AVG. Mostre a ordem lógica de uma consulta e apresente exercícios básicos. Não introduza recursos avançados.
+
+## Prompt 5 — JOIN
+
+**Objetivo:** aprender a relacionar informações de diferentes tabelas.
+
+> Crie uma aula introdutória sobre JOIN utilizando duas tabelas relacionadas: Funcionarios e Departamentos. Explique PK, FK, INNER JOIN e LEFT JOIN de maneira simples. Mostre como utilizar JOIN com GROUP BY e agregações em situações administrativas. Finalize com exercícios básicos e gabarito.
+
+## Prompt 6 — Projeto final
+
+**Objetivo:** consolidar os conhecimentos estudados.
+
+> Com base nos conhecimentos apresentados nos cinco prompts anteriores, crie um projeto final simples para consolidar meu aprendizado de SQL. Sou iniciante e ainda estou aprendendo SQL, portanto não crie um projeto complexo. Utilize três tabelas relacionadas e apresente perguntas administrativas simples que possam ser respondidas utilizando SELECT, WHERE, COUNT, SUM, GROUP BY, ORDER BY e JOIN. Finalize explicando de forma simples a conexão entre SQL, Excel e Power BI.
+
+---
+
+# 🩹 Cicatrizes e ajustes no processo
+
+Durante o desenvolvimento do projeto, algumas respostas do NotebookLM apresentaram uma quantidade de conteúdo maior do que o necessário para um estudante iniciante.
+
+Por esse motivo, a estratégia de estudo foi ajustada.
+
+Inicialmente, a intenção era concentrar o conteúdo em menos prompts. Entretanto, percebeu-se que dividir o aprendizado em etapas menores tornaria o processo mais fácil de acompanhar.
+
+A trilha foi então organizada em seis etapas:
+
+1. Fundamentos de SQL;
+2. Consultas básicas;
+3. Funções de agregação e GROUP BY;
+4. HAVING;
+5. JOIN;
+6. Projeto final.
+
+Essa mudança permitiu trabalhar cada conceito separadamente, evitando excesso de informações em uma única resposta.
+
+### Principal aprendizado sobre os prompts
+
+Foi possível perceber que prompts mais específicos produziram respostas mais adequadas ao objetivo do projeto.
+
+Algumas instruções que ajudaram foram:
+
+- Informar que o conteúdo era destinado a um iniciante;
+- Solicitar linguagem simples;
+- Utilizar exemplos administrativos;
+- Dividir o conteúdo em aulas;
+- Solicitar exercícios de fixação;
+- Evitar conteúdos avançados.
+
+---
+
+# 📖 Miniguia de Estudo
+
+O resultado do processo de aprendizagem foi consolidado em um miniguia de SQL básico.
+
+O material reúne os principais conceitos estudados:
+
+- SQL;
+- Bancos de dados relacionais;
+- Tabelas;
+- Registros e colunas;
+- Chaves primárias e estrangeiras;
+- SELECT;
+- FROM;
+- WHERE;
+- AND e OR;
+- BETWEEN;
+- IN;
+- LIKE;
+- ORDER BY;
+- COUNT;
+- SUM;
+- AVG;
+- MIN;
+- MAX;
+- GROUP BY;
+- HAVING;
+- INNER JOIN;
+- LEFT JOIN.
+
+O miniguia completo está disponível na pasta `material` deste repositório.
+
+---
+
+# 📚 Glossário
+
+| Conceito | Definição |
+|---|---|
+| **SQL** | Linguagem utilizada para trabalhar com bancos de dados relacionais. |
+| **Banco de dados** | Estrutura utilizada para armazenar e organizar informações. |
+| **Tabela** | Estrutura formada por linhas e colunas que armazena dados. |
+| **Registro** | Uma linha de uma tabela. |
+| **Coluna** | Campo que representa uma característica dos dados. |
+| **PK** | Chave primária que identifica um registro de forma única. |
+| **FK** | Chave estrangeira utilizada para relacionar tabelas. |
+| **SELECT** | Define quais informações serão exibidas. |
+| **FROM** | Define de qual tabela os dados serão obtidos. |
+| **WHERE** | Filtra registros de acordo com uma condição. |
+| **GROUP BY** | Agrupa registros para realizar análises. |
+| **HAVING** | Filtra grupos após uma agregação. |
+| **ORDER BY** | Organiza os resultados. |
+| **COUNT** | Conta registros. |
+| **SUM** | Soma valores. |
+| **AVG** | Calcula uma média. |
+| **MIN** | Retorna o menor valor. |
+| **MAX** | Retorna o maior valor. |
+| **JOIN** | Permite combinar informações de diferentes tabelas. |
+| **INNER JOIN** | Retorna registros que possuem correspondência nas duas tabelas. |
+| **LEFT JOIN** | Mantém todos os registros da tabela da esquerda. |
+
+---
+
+# 💼 Projeto Final — TechAdmin
+
+Para consolidar os conhecimentos adquiridos, foi desenvolvido um pequeno cenário fictício chamado **Análise de Resultados TechAdmin**.
+
+O projeto utiliza três tabelas:
+
+- Departamentos;
+- Funcionarios;
+- Vendas.
+
+A proposta foi utilizar SQL para responder perguntas administrativas simples relacionadas a funcionários, departamentos e vendas.
+
+Entre as perguntas analisadas estão:
+
+- Quais vendas foram superiores a R$ 1.000?
+- Quantos funcionários a empresa possui?
+- Qual é o valor total vendido?
+- Quanto cada funcionário vendeu?
+- Qual é o departamento de cada funcionário?
+- Quais são os maiores salários?
+- Qual é a média salarial da empresa?
+
+O projeto completo está disponível no arquivo:
+
+`material/projeto-final-techadmin.md`
+
+---
+
+# 🔄 SQL + Excel + Power BI
+
+Um dos objetivos do projeto foi compreender que SQL não precisa ser estudado de forma isolada.
+
+Em um cenário profissional, os conhecimentos podem fazer parte de um fluxo de análise de dados:
+
+```text
+Banco de Dados
+      ↓
+     SQL
+      ↓
+Power Query / Excel
+      ↓
+   Power BI
+      ↓
+   Dashboard
+      ↓
+Tomada de decisão
+          ↓
 04. HAVING
           ↓
 05. JOIN
