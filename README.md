@@ -280,10 +280,8 @@ Power Query / Excel
    Dashboard
       ↓
 Tomada de decisão
-          ↓
-04. HAVING
-          ↓
-05. JOIN
+  ```
+
 ♻️ Prompts reutilizáveis
 
 Os prompts abaixo podem ser utilizados posteriormente para continuar os estudos.
