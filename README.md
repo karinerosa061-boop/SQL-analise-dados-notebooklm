@@ -85,16 +85,16 @@ A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundame
        ↓
 3. Consultas básicas
 
-     ↓
+       ↓
 5. Funções de agregação e GROUP BY
 
-    ↓
+       ↓
 7. HAVING
 
-     ↓
+       ↓
 9. JOIN
 
-      ↓
+       ↓
 11. Projeto prático
 ```
 ---
