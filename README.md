@@ -67,3 +67,28 @@ Foram selecionadas fontes abertas relacionadas aos fundamentos de SQL, consultas
 3. [Microsoft Learn — Primary and Foreign Key Constraints](https://learn.microsoft.com/ro-ro/SQL/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-ver15)
 4. [Microsoft Support — Power Query no Excel](https://support.microsoft.com/pt-br/excel/create-load-or-edit-a-query-in-excel-power-query)
 5. [Microsoft Learn — Conector do Power Query para SQL Server](https://learn.microsoft.com/pt-br/power-query/connectors/sql-server)
+
+---
+
+# 🤖 Utilização do NotebookLM
+
+O NotebookLM foi utilizado como ferramenta de apoio ao processo de aprendizagem.
+
+As fontes selecionadas foram adicionadas ao notebook e utilizadas como base para a elaboração de prompts progressivos.
+
+A estratégia foi dividir o estudo em etapas, começando pelos conceitos fundamentais e avançando gradualmente até uma aplicação prática.
+
+### 🧭 Trilha de aprendizagem
+
+```text
+01. Fundamentos de SQL
+          ↓
+02. Consultas básicas
+          ↓
+03. Funções de agregação e GROUP BY
+          ↓
+04. HAVING
+          ↓
+05. JOIN
+          ↓
+06. Projeto prático
